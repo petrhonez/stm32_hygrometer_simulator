@@ -1,6 +1,6 @@
 # Simulador de Higrômetro STM32
 
-[![img](imagem.JPG)](https://youtu.be/kvOkUl-xmPA?feature=shared)
+[![img](images/imagem.JPG)](https://youtu.be/kvOkUl-xmPA?feature=shared)
 
 Este projeto implementa um sistema de monitoramento de temperatura e umidade usando um microcontrolador STM32F411 (Blackpill). O sistema possui:
 
@@ -41,3 +41,11 @@ O código principal está em:
 
 
 ![imagem](img_stm.jpg)
+
+![img](images/bigshot.JPG)
+
+![img](images/side1.JPG)
+
+![img](images/side2.JPG)
+
+![img](images/topview.JPG)
