@@ -38,3 +38,5 @@ O código principal está em:
 5. Mostrar Umidade (%)  
 6. Luz LCD OFF  
 7. Luz LCD ON  
+
+[img](img_stm.jpg)
