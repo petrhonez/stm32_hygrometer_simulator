@@ -42,10 +42,10 @@ O código principal está em:
 
 ![imagem](img_stm.jpg)
 
-![img](images/bigshot.JPG)
+![img2](images/bigshot.JPG)
 
-![img](images/side1.JPG)
+![img3](images/side1.JPG)
 
-![img](images/side2.JPG)
+![img4](images/side2.JPG)
 
-![img](images/topview.JPG)
+![img5](images/topview.JPG)
