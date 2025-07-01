@@ -40,12 +40,12 @@ O código principal está em:
 7. Luz LCD ON  
 
 
-![imagem](img_stm.jpg)
+![imagem](images/img_stm.jpg)
 
-![img2](images/bigshot.JPG)
+![img2](images/IMG_7323.JPG)
 
-![img3](images/side1.JPG)
+![img3](images/IMG_7322.JPG)
 
-![img4](images/side2.JPG)
+![img4](images/IMG_7320.JPG)
 
-![img5](images/topview.JPG)
+![img5](images/IMG_7319.JPG)
