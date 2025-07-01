@@ -2,6 +2,8 @@
 
 ![img](imagem.JPG)
 
+https://youtu.be/kvOkUl-xmPA?feature=shared
+
 Este projeto implementa um sistema de monitoramento de temperatura e umidade usando um microcontrolador STM32F411 (Blackpill). O sistema possui:
 
 - Medição de temperatura em Celsius e Kelvin
