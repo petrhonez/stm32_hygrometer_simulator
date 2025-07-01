@@ -39,4 +39,5 @@ O código principal está em:
 6. Luz LCD OFF  
 7. Luz LCD ON  
 
-[img](img_stm.JPEG)
+
+![imagem](img_stm.jpg)
