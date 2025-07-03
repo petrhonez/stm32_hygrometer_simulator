@@ -1,4 +1,4 @@
-# Simulador de Higrômetro STM32
+# Simulador de Termo-Higrômetro STM32
 
 [![img](images/imagem.JPG)](https://www.youtube.com/watch?v=CLyq8NX1GmY)
 
