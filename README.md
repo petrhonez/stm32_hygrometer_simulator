@@ -15,9 +15,11 @@ Este projeto implementa um sistema de monitoramento de temperatura e umidade usa
 
 - STM32F411CEU6 (Blackpill)
 - LCD 16x2 com I2C
-- Sensor de umidade (simulado via potenciômetro)
+- Potenciômetro de 10k Ohm para simular Temperatura
+- Potenciômetro de 1k Ohm para simular Umidade
 - LEDs indicadores (5 unidades)
-- Módulo IR e controle remoto
+- LEDs alerta de proteção (2 unidades)
+- LED IR infra-vermelho e lâmpada RGB
 - Joystick analógico
 - Botões (PB1, PB2)
 
@@ -28,6 +30,12 @@ O código principal está em:
 - `Core/Src/main.c`: lógica de controle e proteções
 - `Core/Inc`: cabeçalhos
 - `Drivers/`: bibliotecas HAL e customizadas (LCD, Joystick)
+
+Bibliotecas:
+
+- lcd encontra em arquivos .c e .h dentro de `Core`
+  - créditos a https://github.com/petrhonez/stm32_hygrometer_simulator 
+- joystick encontra em arquivos .c e .h dentro de `Core`
 
 ## Esquema de Menu
 
