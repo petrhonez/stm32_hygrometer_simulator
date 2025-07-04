@@ -34,7 +34,7 @@ O código principal está em:
 Bibliotecas:
 
 - lcd encontra em arquivos .c e .h dentro de `Core`
-  - créditos a https://github.com/petrhonez/stm32_hygrometer_simulator 
+  - créditos a https://github.com/alixahedi/I2C-LCD-STM32 
 - joystick encontra em arquivos .c e .h dentro de `Core`
 
 ## Esquema de Menu
